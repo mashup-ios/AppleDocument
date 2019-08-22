@@ -36,4 +36,4 @@ WebView가 웹 컨텐츠를 수신하기 시작했을 때 호출된다.
 ```
 
 ### Template
-* Apple Docs와 유사한 형태를 가지면서, Repository에서 통일성을 가질 수 있도록 [Template]() 파일을 기본 베이스로 사용합니다.
+* Apple Docs와 유사한 형태를 가지면서, Repository에서 통일성을 가질 수 있도록 [Template](Template.md) 파일을 기본 베이스로 사용합니다.
