@@ -6,6 +6,11 @@ MashUp Apple Document Repository
 > 의역, 오역 난무합니다. 피드백, PR 환영합니다!
 
 ## Convention
+### Git
+* 작업 전 이슈를 등록합니다. `Create/Update WKWebView`
+* 작업전에 중복을 방지하기 위해 Project에서 해당 이슈를 In-progress 로 설정한 뒤 작업합니다.
+* 개인 Repository로 Fork 해서 PR > Review > Merge 방식으로 진행합니다.
+
 ### URI Convention
 * 손쉽게 문서를 검색할 수 있도록 기존 Apple Docs와 동일한 URI 방식을 따릅니다.
 * 파일 명은 모두 소문자로 작성합니다.
