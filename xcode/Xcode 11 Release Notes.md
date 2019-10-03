@@ -1,3 +1,13 @@
+---
+title:  Xcode 11 Release Notes
+framework: Xcode
+sdks:  iOS 13.0+ / macOS 10.15+
+created:   2019-10-03
+updated:   2019-10-03
+author: Juhee Kim
+Copyright: © 2019 mashup-ios
+---
+
 
 #### Article
 ## Xcode 11 Release Notes
